@@ -1,4 +1,4 @@
-package com.matt.new.helm.demo3;
+package com.matt.helm.demo3;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
